@@ -9,7 +9,6 @@ while (contador <= 10) {
     contador = contador + 1;
 }
 
-alert("Fin del código 1");
 
 /*2.
     Crea un contador que comience en 10 y vaya hasta 1 usando un bucle 'while'. 
@@ -22,7 +21,6 @@ while (contador2 >= 1) {
     contador2 = contador2 - 1;
 }
 
-alert("Fin del código 2");
 
 
 /*3.
@@ -37,7 +35,6 @@ while (contador3 <= numeroUsuario) {
     contador3 = contador3 + 1;
 }
 
-alert("Fin del código 3");
 
 /*4.
     Crea un programa de cuenta regresiva. 
@@ -51,4 +48,3 @@ while (contador4 >= 0) {
     contador4 = contador4 - 1;
 }
 
-alert("Fin del código 4");
